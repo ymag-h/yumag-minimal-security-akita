@@ -1,0 +1,1 @@
+# yumag-minimal-security-akita
